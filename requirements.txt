@@ -1,4 +1,4 @@
 gunicorn
 flask
-cv2
+cv2==4.7.0
 pytesseract
